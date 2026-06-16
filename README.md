@@ -28,8 +28,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eduardaguimaraess&show_icons=true&bg_color=ffffff&title_color=6A5ACD&text_color=333333&icon_color=1E90FF&border_color=DCDCDC" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaguimaraess&layout=compact&bg_color=ffffff&title_color=6A5ACD&text_color=333333&border_color=DCDCDC" />
 
 </div>
