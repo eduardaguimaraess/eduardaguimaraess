@@ -27,10 +27,12 @@
 
 ## 📊 Estatísticas
 
+
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardaguimaraess&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaguimaraess&layout=compact&theme=tokyonight"/>
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaguimaraess&layout=compact&bg_color=ffffff&title_color=6A5ACD&text_color=333333&border_color=DCDCDC
 </div>
+
 
 
 ---
