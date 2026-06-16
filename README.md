@@ -1,34 +1,25 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1E90FF&height=200&section=header&text=Eduarda%20Guimarães&fontSize=30&fontColor=fff"/>
 
+
 # 👋 Olá, eu sou a Eduarda!
 
-💻 Estudante de Engenharia da Computação
-🚀 Focada em evoluir como desenvolvedora  
-📍 Brasil  
+✨ Sou estudante de Engenharia da Computação.  
+💡 Estou em busca de evolução como desenvolvedora, explorando diferentes linguagens e criando projetos práticos.  
+🚀 Meu objetivo é construir soluções úteis e crescer cada dia mais na área.
 
 ---
 
-## 🚀 Tecnologias que estou estudando
+
+## 🚀 Tecnologias que estou aprendendo
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="HTML" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-<img align="center" alt="JS" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-<img align="center" alt="Python" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-<img align="center" alt="Kotlin" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-
-<img align="center" alt="PHP" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+<img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="Kotlin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+<img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 
 </div>
 
@@ -37,8 +28,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardaguimaraess&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaguimaraess&layout=compact&theme=tokyonight"/>
 </div>
 
 
