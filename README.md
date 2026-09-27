@@ -1,45 +1,77 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1E90FF&height=200&section=header&text=Eduarda%20Guimarães&fontSize=30&fontColor=fff"/>
+<h1 align="center">Olá, eu sou a Eduarda 👋</h1>
 
+<p align="center">
+  Estudante de Engenharia da Computação | Explorando Python, dados e desenvolvimento web
+</p>
 
-# 👋 Olá, eu sou a Eduarda!
-
-✨ Sou estudante de Engenharia da Computação.  
-💡 Estou em busca de evolução como desenvolvedora, explorando diferentes linguagens e criando projetos práticos.  
-🚀 Meu objetivo é construir soluções úteis e crescer cada dia mais na área.
-
----
-
-
-## 🚀 Tecnologias que estou aprendendo
-
-<div style="display: inline_block"><br>
-
-<img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="Kotlin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-<img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-
-</div>
-
----
-## 📊 Estatísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaguimaraess&layout=compact&bg_color=ffffff&title_color=6A5ACD&text_color=333333&border_color=DCDCDC" />
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduarda-guimarães-monteiro-57403140b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:eduardaguimaraesmonteiro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-## 🌎 Contato
+### 🎯 Sobre mim
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduarda-guimarães-monteiro-57403140b)
-
-[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardaguimaraesmonteiro@gmail.com)
+- 🎓 Cursando **Engenharia da Computação**
+- 💻 Mais familiaridade com **Python**, uso **JavaScript (vanilla)** no trabalho e também tenho contato com **análise de dados**
+- 📚 Já passei por outras linguagens e stacks na faculdade e em projetos pessoais (Kotlin, SQL, PHP, entre outras)
+- 🚀 Gosto de transformar teoria em projetos práticos — de scanners de segurança a modelagem de bancos de dados
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=120&section=footer"/>
+### 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</p>
+
+*(ajuste essa lista de acordo com as linguagens que você quer destacar — ela reflete o que apareceu nos seus repositórios)*
+
+---
+
+### 📌 Projetos em destaque
+
+<!--
+  Os projetos abaixo foram encontrados no seu perfil público. Ajuste títulos,
+  descrições e links caso algum repositório tenha mudado de nome ou visibilidade.
+-->
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**soundwave-banco-de-dados**](https://github.com/eduardaguimaraess/soundwave-banco-de-dados) | Projeto acadêmico que simula uma plataforma de streaming musical (estilo Spotify): modelagem relacional, regras de integridade, população de dados e consultas SQL de negócio | `MySQL` |
+| [**DevScan**](https://github.com/eduardaguimaraess/DevScan) | Scanner de segurança web modular | `Python` |
+| [**CrmInstitucional**](https://github.com/eduardaguimaraess/CrmInstitucional) | Projeto de Programação Orientada a Objetos (N1) | `Python` |
+| [**atividade-api-mobile-eduarda**](https://github.com/eduardaguimaraess/atividade-api-mobile-eduarda) | Atividade acadêmica de consumo de API em app mobile | `Kotlin` |
+| [**atividade-permissoes-mobile-eduarda**](https://github.com/eduardaguimaraess/atividade-permissoes-mobile-eduarda) | Atividade acadêmica sobre permissões em app mobile | `Kotlin` |
+
+> 💡 Dica: escreva 1-2 linhas por projeto contando *o que ele resolve* e *o que você aprendeu*, isso costuma chamar mais atenção de recrutadores do que só o nome da stack.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardaguimaraess&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaguimaraess&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 📫 Contato
+
+- LinkedIn: [eduarda-guimarães-monteiro](https://www.linkedin.com/in/eduarda-guimarães-monteiro-57403140b)
+- E-mail: eduardaguimaraesmonteiro@gmail.com
+
+<p align="center"><i>Sempre aberta a novas oportunidades e colaborações 🚀</i></p>
