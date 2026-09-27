@@ -22,7 +22,8 @@ Ao longo da graduação, venho explorando diferentes áreas da Computação — 
 
 ---
 
-
+<div align="center">
+  
 ## 🛠️ Tecnologias & ferramentas
 
 ### 💻 Experiência prática
@@ -56,6 +57,7 @@ Ao longo da graduação, venho explorando diferentes áreas da Computação — 
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
 </p>
 
+</div>
 ---
 
 ## 🎓 Formação
