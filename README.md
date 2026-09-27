@@ -1,86 +1,337 @@
 <div align="center">
 
-  <!-- Banner Superior / Animação de Entrada -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=220&section=header&text=Eduarda%20Guimarães&fontSize=50&fontAlignY=38&animation=twinkling&desc=Engenharia%20da%20Computação%20%7C%20Data%20%26%20Software%20Development&descAlignY=62&descSize=18" width="100%" />
+# 👩🏻‍💻 Eduarda Guimarães
 
-  <!-- Badges de Status / Redes -->
-  <p align="center">
-    <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://github.com/eduardaguimaraess"><img src="https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
+### Computer Engineering Student • Software Development • Data
 
-  <br />
+**Construindo, aprendendo e transformando problemas em soluções através da tecnologia.**
 
-  <!-- Digitação animada com Readme Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Engenheira+da+Computa%C3%A7%C3%A3o+em+Forma%C3%A7%C3%A3o;Python+%26+Data+Engineering;Desenvolvimento+Web+Vanilla+JS;L%C3%B3gica+de+Programa%C3%A7%C3%A3o+%26+SQL" alt="Typing SVG" />
-  </a>
-
-</div>
-
-<br />
-
-## ⚡ Sobre Mim
-
-```txt
-┌──[ eduarda@github ]─[~]
-└──$ cat sobre_mim.json
-{
-  "foco_atual": "Formação em Engenharia da Computação & Engenharia de Dados",
-  "linguagem_favorita": "Python 🐍",
-  "experiencia_pratica": "JavaScript Vanilla no mercado de trabalho & Consultas SQL Avançadas",
-  "outras_skills": ["Sistemas Embarcados (Arduino)", "Modelagem de Bancos Relacionais", "Lógica de Programação"],
-  "meta_de_carreira": "Criar soluções eficientes integrando engenharia de software e análise de dados"
-}
-<details open>
-  <summary><b>🔧 Ferramentas, Dev & Hardware</b></summary>
-  <br />
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  </p>
-</details>
-
----
-
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| 📊 **Análise & Modelagem de Dados** | Projeto com foco em consultas SQL complexas e manipulação de datasets em Python. | `Python` `Pandas` `SQL` | [Ver Repo 🔗](https://github.com/eduardaguimaraess) |
-| 🌐 **Desenvolvimento JS Vanilla** | Scripts e componentes desenvolvidos com JavaScript puro focados em automação e interface. | `JavaScript` `HTML5` `CSS3` | [Ver Repo 🔗](https://github.com/eduardaguimaraess) |
-| 🤖 **Sistemas Embarcados / Arduino** | Projetos de automação física e controle desenvolvidos ao longo do curso de Engenharia. | `C++` `Arduino` | [Ver Repo 🔗](https://github.com/eduardaguimaraess) |
-
----
-
-## 📈 Estatísticas & Atividade no GitHub
-
-<div align="center">
-
-  <!-- Cards de métricas do GitHub lado a lado -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=eduardaguimaraess&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaguimaraess&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
-
-  <br /><br />
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardaguimaraess&theme=tokyonight&hide_border=true" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/eduarda-guimarães-monteiro-57403140b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/eduardaguimaraess)
 
 </div>
 
 ---
 
-## 🤝 Vamos nos conectar?
+## 👋 Sobre mim
+
+Sou estudante de **Engenharia da Computação** e atuo profissionalmente na área de tecnologia, unindo minha formação acadêmica com experiências práticas de desenvolvimento.
+
+Minha maior familiaridade técnica hoje está com **Python**, especialmente em projetos envolvendo desenvolvimento, automação e análise de dados. No ambiente profissional, também trabalho com **JavaScript Vanilla**, APIs e customizações de sistemas web.
+
+Ao longo da graduação, venho explorando diferentes áreas da Computação — desde desenvolvimento web e mobile até bancos de dados, programação orientada a objetos, computação gráfica e sistemas embarcados.
+
+> 💡 Gosto de aprender tecnologias diferentes, mas procuro entender principalmente **o problema que estou resolvendo e por que determinada tecnologia faz sentido para aquela solução.**
+
+---
+
+## 🧩 Minha trajetória na tecnologia
+
+```text
+Engenharia da Computação
+        │
+        ├── 💻 Desenvolvimento de Software
+        │      ├── Python
+        │      ├── JavaScript
+        │      ├── React / TypeScript
+        │      └── Kotlin
+        │
+        ├── 📊 Dados & Bancos de Dados
+        │      ├── SQL
+        │      ├── MySQL
+        │      ├── Pandas
+        │      └── NumPy
+        │
+        ├── 🌐 Web
+        │      ├── HTML
+        │      ├── CSS
+        │      ├── JavaScript Vanilla
+        │      └── APIs REST
+        │
+        └── 🔬 Exploração acadêmica
+               ├── Computação Gráfica
+               ├── Sistemas Embarcados
+               ├── Android
+               └── Programação Orientada a Objetos
+```
+
+---
+
+## 🛠️ Tecnologias & ferramentas
+
+### 🐍 Maior familiaridade
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+
+### 💻 Experiência prática
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
+
+### 📚 Tecnologias exploradas na graduação
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
+</p>
+
+### 🔧 Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+Alguns projetos que representam diferentes partes da minha formação e daquilo que venho construindo na área de tecnologia.
+
+### 🔍 [DevScan](https://github.com/eduardaguimaraess/DevScan)
+
+**Scanner modular de segurança web desenvolvido em Python.**
+
+Projeto voltado à análise de vulnerabilidades comuns em aplicações web, utilizando uma arquitetura modular e conceitos de Programação Orientada a Objetos.
+
+**Principais conceitos:**
+
+* Python
+* POO
+* Abstração e encapsulamento
+* Herança e polimorfismo
+* Decorators
+* Arquitetura modular
+* Geração de relatórios JSON
+* Análise de headers e HTTPS
+
+> Um dos projetos que melhor representa meu interesse por **desenvolvimento estruturado e arquitetura de software**.
+
+---
+
+### 🪄 [Diário de Hogwarts](https://github.com/eduardaguimaraess/diario-de-hogwarts)
+
+**Portal acadêmico web desenvolvido com React, TypeScript e Vite.**
+
+Projeto que explora o desenvolvimento de uma aplicação web completa, com interface responsiva, navegação, autenticação local, consumo de API externa, favoritos e organização de informações em formato de dashboard.
+
+**Tecnologias:**
+
+* React
+* TypeScript
+* Vite
+* React Router
+* CSS
+* API REST
+* Componentização
+
+> Projeto desenvolvido para explorar conceitos de **desenvolvimento web moderno e construção de interfaces interativas**.
+
+---
+
+### 🎵 [SoundWave — Banco de Dados](https://github.com/eduardaguimaraess/soundwave-banco-de-dados)
+
+**Modelagem de banco de dados para uma plataforma de streaming musical.**
+
+Projeto acadêmico desenvolvido em MySQL, envolvendo modelagem relacional, relacionamentos, integridade de dados e consultas SQL.
+
+**Conceitos trabalhados:**
+
+* Modelagem relacional
+* Chaves primárias e estrangeiras
+* Relacionamentos 1:1, 1:N e N:N
+* JOINs
+* Subconsultas
+* Funções de janela
+* `RANK()`
+* `LAG()`
+* Análise de dados
+
+> Projeto que representa meu interesse pela interseção entre **desenvolvimento, bancos de dados e análise de informações**.
+
+---
+
+### 🌦️ [WeatherNow](https://github.com/eduardaguimaraess/atividade-api-mobile-eduarda)
+
+**Aplicativo Android desenvolvido em Kotlin para consulta de informações meteorológicas.**
+
+A aplicação consome uma API pública e apresenta informações como temperatura, umidade, vento e condições climáticas.
+
+**Tecnologias:**
+
+* Kotlin
+* Android Studio
+* XML
+* Volley
+* API REST
+* Tratamento de erros
+
+---
+
+### 🏫 [CRM Institucional](https://github.com/eduardaguimaraess/CrmInstitucional)
+
+**Sistema acadêmico desenvolvido em Python e Streamlit.**
+
+Projeto desenvolvido durante o estudo de Programação Orientada a Objetos, explorando organização de código, separação de responsabilidades e construção de uma aplicação com interface web.
+
+**Tecnologias:**
+
+* Python
+* Streamlit
+* POO
+* MySQL
+* Arquitetura organizada em camadas
+
+---
+
+## 📊 Dados & Desenvolvimento
+
+Uma das áreas que mais me interessa é a possibilidade de utilizar programação para **transformar dados em informações úteis**.
+
+Tenho explorado:
+
+```text
+Dados
+ │
+ ├── Coleta
+ │
+ ├── Tratamento
+ │
+ ├── Organização
+ │
+ ├── Análise
+ │
+ └── Visualização
+```
+
+Ferramentas e tecnologias com as quais já tive contato:
+
+`Python` · `Pandas` · `NumPy` · `SQL` · `MySQL` · `Streamlit`
+
+---
+
+## 💻 Experiência profissional
+
+Atualmente atuo na área de tecnologia, trabalhando principalmente com desenvolvimento e customização de soluções utilizando **JavaScript Vanilla**, APIs e ferramentas do ecossistema da empresa.
+
+Essa experiência complementa minha formação acadêmica porque me permite aplicar conceitos de programação em problemas reais, lidar com sistemas existentes e compreender necessidades de usuários e clientes.
+
+> **Academia me ajuda a entender os fundamentos.
+> O trabalho me ajuda a entender como esses fundamentos são aplicados na prática.**
+
+<!--
+✏️ AJUSTE ESTA PARTE:
+Caso queira deixar seu cargo e empresa explícitos, substitua o texto acima por algo como:
+
+"Atualmente atuo como [SEU CARGO] na [EMPRESA], trabalhando com [PRINCIPAIS ATIVIDADES]."
+
+Você também pode adicionar o período:
+[MM/AAAA] – Atualmente
+-->
+
+---
+
+## 🎓 Formação
+
+**Engenharia da Computação**
+`[Nome da instituição]` · `[Ano de início] – Atualmente`
+
+**Técnico Integrado em Informática**
+Instituto Federal do Sudeste de Minas Gerais — Campus Muriaé
+
+---
+
+## 🌱 Atualmente estudando
+
+* 🐍 Aprofundamento em Python
+* 📊 Análise e tratamento de dados
+* 🗄️ Bancos de dados e SQL
+* 🌐 Desenvolvimento web
+* 🧠 Estruturas e fundamentos de Computação
+* ⚙️ Arquitetura e organização de software
+* 🔬 Conteúdos relacionados à Engenharia da Computação
+
+<!--
+✏️ AJUSTE:
+Atualize esta lista conforme sua graduação avançar.
+O ideal é manter apenas aquilo que você realmente está estudando no momento.
+-->
+
+---
+
+## 🎯 O que estou buscando
+
+Tenho interesse em oportunidades nas quais eu possa continuar desenvolvendo minhas habilidades em tecnologia e, principalmente, transformar conhecimento acadêmico em soluções práticas.
+
+Áreas que atualmente despertam meu interesse:
+
+**Desenvolvimento de Software · Python · Dados · Backend · APIs · Desenvolvimento Web**
+
+<!--
+✏️ AJUSTE:
+Se você estiver buscando uma vaga específica, pode substituir essa seção por:
+
+"Atualmente estou buscando oportunidades de estágio/júnior em [ÁREA], com interesse em [TECNOLOGIAS]."
+-->
+
+---
+
+## 📌 Alguns dos assuntos que fazem parte da minha jornada
+
+```text
+Python                  ███████████████████░
+JavaScript              ███████████████░░░░░
+SQL / Banco de Dados    ██████████████░░░░░░
+Dados                   █████████████░░░░░░░
+Web                     ████████████░░░░░░░░
+React / TypeScript      ████████░░░░░░░░░░░
+Kotlin / Android        ███████░░░░░░░░░░░░
+Computação Gráfica      █████░░░░░░░░░░░░░░
+```
+
+> Os níveis acima representam **familiaridade e experiência prática atual**, não certificações ou domínio absoluto.
+
+---
+
+## 📈 GitHub
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardaguimaraess&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-  <br /><br />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaguimaraess&layout=compact&theme=tokyonight&hide_border=true" />
 
-  <sub>Desenvolvido por <b>Eduarda Guimarães</b> 🚀</sub>
+</div>
+
+---
+
+## 🤝 Vamos conversar?
+
+Se você quiser trocar uma ideia sobre tecnologia, desenvolvimento, dados ou projetos, fique à vontade para entrar em contato.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/eduarda-guimarães-monteiro-57403140b/)
+[![GitHub](https://img.shields.io/badge/GitHub-eduardaguimaraess-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/eduardaguimaraess)
+
+<br>
+
+### 💜 Obrigada por visitar meu perfil!
+
 </div>
