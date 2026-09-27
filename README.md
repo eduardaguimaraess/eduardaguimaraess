@@ -25,52 +25,13 @@ Ao longo da graduação, venho explorando diferentes áreas da Computação — 
 
 ---
 
-## 🧩 Minha trajetória na tecnologia
-
-```text
-Engenharia da Computação
-        │
-        ├── 💻 Desenvolvimento de Software
-        │      ├── Python
-        │      ├── JavaScript
-        │      ├── React / TypeScript
-        │      └── Kotlin
-        │
-        ├── 📊 Dados & Bancos de Dados
-        │      ├── SQL
-        │      ├── MySQL
-        │      ├── Pandas
-        │      └── NumPy
-        │
-        ├── 🌐 Web
-        │      ├── HTML
-        │      ├── CSS
-        │      ├── JavaScript Vanilla
-        │      └── APIs REST
-        │
-        └── 🔬 Exploração acadêmica
-               ├── Computação Gráfica
-               ├── Sistemas Embarcados
-               ├── Android
-               └── Programação Orientada a Objetos
-```
-
----
 
 ## 🛠️ Tecnologias & ferramentas
-
-### 🐍 Maior familiaridade
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-</p>
 
 ### 💻 Experiência prática
 
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -97,106 +58,6 @@ Engenharia da Computação
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
 </p>
-
----
-
-## 🚀 Projetos em destaque
-
-Alguns projetos que representam diferentes partes da minha formação e daquilo que venho construindo na área de tecnologia.
-
-### 🔍 [DevScan](https://github.com/eduardaguimaraess/DevScan)
-
-**Scanner modular de segurança web desenvolvido em Python.**
-
-Projeto voltado à análise de vulnerabilidades comuns em aplicações web, utilizando uma arquitetura modular e conceitos de Programação Orientada a Objetos.
-
-**Principais conceitos:**
-
-* Python
-* POO
-* Abstração e encapsulamento
-* Herança e polimorfismo
-* Decorators
-* Arquitetura modular
-* Geração de relatórios JSON
-* Análise de headers e HTTPS
-
-> Um dos projetos que melhor representa meu interesse por **desenvolvimento estruturado e arquitetura de software**.
-
----
-
-### 🪄 [Diário de Hogwarts](https://github.com/eduardaguimaraess/diario-de-hogwarts)
-
-**Portal acadêmico web desenvolvido com React, TypeScript e Vite.**
-
-Projeto que explora o desenvolvimento de uma aplicação web completa, com interface responsiva, navegação, autenticação local, consumo de API externa, favoritos e organização de informações em formato de dashboard.
-
-**Tecnologias:**
-
-* React
-* TypeScript
-* Vite
-* React Router
-* CSS
-* API REST
-* Componentização
-
-> Projeto desenvolvido para explorar conceitos de **desenvolvimento web moderno e construção de interfaces interativas**.
-
----
-
-### 🎵 [SoundWave — Banco de Dados](https://github.com/eduardaguimaraess/soundwave-banco-de-dados)
-
-**Modelagem de banco de dados para uma plataforma de streaming musical.**
-
-Projeto acadêmico desenvolvido em MySQL, envolvendo modelagem relacional, relacionamentos, integridade de dados e consultas SQL.
-
-**Conceitos trabalhados:**
-
-* Modelagem relacional
-* Chaves primárias e estrangeiras
-* Relacionamentos 1:1, 1:N e N:N
-* JOINs
-* Subconsultas
-* Funções de janela
-* `RANK()`
-* `LAG()`
-* Análise de dados
-
-> Projeto que representa meu interesse pela interseção entre **desenvolvimento, bancos de dados e análise de informações**.
-
----
-
-### 🌦️ [WeatherNow](https://github.com/eduardaguimaraess/atividade-api-mobile-eduarda)
-
-**Aplicativo Android desenvolvido em Kotlin para consulta de informações meteorológicas.**
-
-A aplicação consome uma API pública e apresenta informações como temperatura, umidade, vento e condições climáticas.
-
-**Tecnologias:**
-
-* Kotlin
-* Android Studio
-* XML
-* Volley
-* API REST
-* Tratamento de erros
-
----
-
-### 🏫 [CRM Institucional](https://github.com/eduardaguimaraess/CrmInstitucional)
-
-**Sistema acadêmico desenvolvido em Python e Streamlit.**
-
-Projeto desenvolvido durante o estudo de Programação Orientada a Objetos, explorando organização de código, separação de responsabilidades e construção de uma aplicação com interface web.
-
-**Tecnologias:**
-
-* Python
-* Streamlit
-* POO
-* MySQL
-* Arquitetura organizada em camadas
 
 ---
 
