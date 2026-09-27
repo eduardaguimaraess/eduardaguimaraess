@@ -58,6 +58,7 @@ Ao longo da graduação, venho explorando diferentes áreas da Computação — 
 </p>
 
 </div>
+
 ---
 
 ## 🎓 Formação
